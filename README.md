@@ -1241,7 +1241,7 @@ CB,Dominique Rodgers-Cromartie,30,2008,87,89,90,86,95,50,7,5
 CB,Trumaine McBride,30,2007,65,75,89,79,89,52,1.4,2
 CB,Leon McFadden,25,2013,86,60,90,79,91,33,0.7,2
 CB,Jayron Hosley,25,2012,65,66,88,81,92,32,0.7,4
-CB,Janoris Jenkins,27,2012,84,75,89,82,92,50,6.5,5
+CB,Janoris Jenkins,27,2012,88,85,89,89,92,70,6.5,5
 CB,Tramain Jacobs,24,2014,62,48,90,74,90,49,0.6,2
 CB,Eli Apple,20,2016,100,65,85,84,94,70,3.8,4
 CB,Bennett Jackson,24,2014,73,42,95,81,90,60,0.5,1
